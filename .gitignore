@@ -1,0 +1,6 @@
+# Python build artifacts
+__pycache__/
+*.pyc
+
+# OS generated files (if you are on Mac)
+.DS_Store
